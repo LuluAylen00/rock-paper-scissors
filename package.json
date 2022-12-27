@@ -1,0 +1,26 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuluAylen00/rock-paper-scissors.git"
+  },
+  "keywords": [],
+  "author": "luluaylen00 <luluaylen00@gmail.com> (https://github.com/LuluAylen00)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuluAylen00/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/LuluAylen00/rock-paper-scissors#readme",
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
